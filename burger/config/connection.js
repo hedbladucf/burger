@@ -12,10 +12,10 @@ var source = {
     },
     jawsDB: {
         port: 3306,
-        host: '',
-        user: '',
-        password: '',
-        database: ''
+        host: 'sp6xl8zoyvbumaa2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+        user: 'cqr16c1fuyw83fov',
+        password: 'buzmxaz9bmggnti5',
+        database: 'p1acfuwr73yz6pcf'
     }
 }
 
