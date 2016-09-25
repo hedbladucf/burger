@@ -19,7 +19,7 @@ var source = {
     }
 }
 
-var selectedSource = source.localhost;
+var selectedSource = source.jawsDB;
 
 var connection = mysql.createConnection(selectedSource);
 
